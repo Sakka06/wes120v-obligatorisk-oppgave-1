@@ -1,4 +1,4 @@
-## Hva er prosjektet er 
+## Hva prosjektet er 
 Jeg lager en enkel nettside til WES120V. Jeg bruker Ubuntu og lager en nettside 
 ## Node.js og pnpm må være installert
 Node.js og pnpm må være installert for at prosjektet skal fungere
